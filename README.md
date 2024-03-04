@@ -1,4 +1,4 @@
 # CRUDJavaSwingBD
 Este projeto mostra como implementar um CRUD utilizando Java Swing + Banco de Dados MySQL
 <img src="img/demonstracao.png" alt="Demonstração da Aplicação">
-[![Watch the video]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=51tulDzs8Rk)https://www.youtube.com/watch?v=51tulDzs8Rk)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/51tulDzs8Rk?si=GpWsdEp0mWSBmEqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
