@@ -1,5 +1,5 @@
-# CRUDJavaSwingBD
-Este projeto mostra como implementar um CRUD utilizando Java Swing + Banco de Dados MySQL
+# AULA_0 - CRUDJavaSwingBD 
+Esta branch da aula0, possui apenas a construção da interface gráfica
 <img src="img/demonstracao.png" alt="Demonstração da Aplicação">
 
 ### Veja o projeto demonstrado no Youtube!
