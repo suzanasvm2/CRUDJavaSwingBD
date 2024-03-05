@@ -8,7 +8,7 @@ public class CreateTabelaConversao {
     public static void main(String[] args) throws SQLException, RuntimeException {
         Connection  conexao = FabricaConexao.getConexao();
 
-        String create_table_sql = "CREATE TABLE conversao_nova (codigo INT AUTO_INCREMENT PRIMARY KEY, entrada float NOT NULL, conversao VARCHAR(80) NOT NULL, saida float NOT NULL)";
+        String create_table_sql = "CREATE TABLE conversao (codigo INT AUTO_INCREMENT PRIMARY KEY, entrada float NOT NULL, conversao VARCHAR(80) NOT NULL, saida float NOT NULL)";
 
         Statement stmt = conexao.createStatement();
         try{
