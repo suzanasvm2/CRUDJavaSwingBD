@@ -9,7 +9,7 @@ public class FabricaConexao {
             final String database = "conversor";
             final String url = "jdbc:mysql://localhost/" + database + "?useSSL=false";
             final String usuario = "root";
-            final String senha = "Camp6929!";
+            final String senha = "sua_senha";
 
             System.out.println("Conectado com sucesso!");
             return getConnection(url, usuario, senha);
